@@ -16,7 +16,6 @@
 	- vraag vrijwilligers laten staan
 - Formulier enquete uittreding judo, communiceren naar trainers zodat ze zelf kunnen opvolgen
 - drukwerk folders, Helena maakt het drukwerk @ printocean rotterdam
-
 - drukwerk steakfestijn @ karsten maakt het drukwerk 
 ## Backlog
 - Open training/vriendjesdag communicatie
@@ -24,10 +23,10 @@
 	- vriendjesdag laat joachim mij asap iets laten weten
 	- nu nog niks!!! wachten op joachim
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzIwOTQwMzAsLTE3NDY5NjcxMTgsLT
-E0NTA0NzEzODUsMTY2NjI4MjYwNiwtNzUwMjUyNjkyLDIxNjQ1
-ODI0NSwyMTUwNzY0MzMsLTM0Njc3Mzg5OCwxNjk4Nzc2MDk3LD
-E2OTg3NzYwOTcsMTg1MDc1MDA4MywxNDU4Mzk4ODQ0LC0zNTU0
-MTUzMjYsNDMxNDc5NzgsLTIxMTcwMDgyMTksNzA4Mjg2ODU4LD
-E1NjQ1MDM0MzFdfQ==
+eyJoaXN0b3J5IjpbLTg1ODU4NjA0NCwtMTc0Njk2NzExOCwtMT
+Q1MDQ3MTM4NSwxNjY2MjgyNjA2LC03NTAyNTI2OTIsMjE2NDU4
+MjQ1LDIxNTA3NjQzMywtMzQ2NzczODk4LDE2OTg3NzYwOTcsMT
+Y5ODc3NjA5NywxODUwNzUwMDgzLDE0NTgzOTg4NDQsLTM1NTQx
+NTMyNiw0MzE0Nzk3OCwtMjExNzAwODIxOSw3MDgyODY4NTgsMT
+U2NDUwMzQzMV19
 -->
