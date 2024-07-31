@@ -8,7 +8,8 @@
 	- Steak & kip: volwassen: 22 euro / kinderen 15 euro
 	- Veggie: volwassen: 22euro / kinderen 15 euro
 	- Mededeling: vragen aan karsten
-	- Uren 5 & 6 oktober: vragen aan @eveline/karin
+	- 5 oktober: 18:30-21
+	- 6 oktober: 1
 	
 ## Backlog
 - Open training/vriendjesdag communicatie
@@ -16,9 +17,9 @@
 	- vriendjesdag laat joachim mij asap iets laten weten
 	- nu nog niks!!! wachten op joachim
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MDI1MjY5MiwyMTY0NTgyNDUsMjE1MD
-c2NDMzLC0zNDY3NzM4OTgsMTY5ODc3NjA5NywxNjk4Nzc2MDk3
-LDE4NTA3NTAwODMsMTQ1ODM5ODg0NCwtMzU1NDE1MzI2LDQzMT
-Q3OTc4LC0yMTE3MDA4MjE5LDcwODI4Njg1OCwxNTY0NTAzNDMx
-XX0=
+eyJoaXN0b3J5IjpbMjI5MzE0NDQxLC03NTAyNTI2OTIsMjE2ND
+U4MjQ1LDIxNTA3NjQzMywtMzQ2NzczODk4LDE2OTg3NzYwOTcs
+MTY5ODc3NjA5NywxODUwNzUwMDgzLDE0NTgzOTg4NDQsLTM1NT
+QxNTMyNiw0MzE0Nzk3OCwtMjExNzAwODIxOSw3MDgyODY4NTgs
+MTU2NDUwMzQzMV19
 -->
