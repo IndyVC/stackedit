@@ -9,7 +9,10 @@
 	- Veggie: volwassen: 22euro / kinderen 15 euro
 	- Mededeling: vragen aan karsten
 	- 5 oktober: 18:30-21
-	- 6 oktober: 1
+	- 6 oktober: 12 - 14u30
+	- ten laatste inschrijving
+	-  29 september zondag deadline
+	- 
 	
 ## Backlog
 - Open training/vriendjesdag communicatie
@@ -17,7 +20,7 @@
 	- vriendjesdag laat joachim mij asap iets laten weten
 	- nu nog niks!!! wachten op joachim
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI5MzE0NDQxLC03NTAyNTI2OTIsMjE2ND
+eyJoaXN0b3J5IjpbMTc4NjgyOTIyLC03NTAyNTI2OTIsMjE2ND
 U4MjQ1LDIxNTA3NjQzMywtMzQ2NzczODk4LDE2OTg3NzYwOTcs
 MTY5ODc3NjA5NywxODUwNzUwMDgzLDE0NTgzOTg4NDQsLTM1NT
 QxNTMyNiw0MzE0Nzk3OCwtMjExNzAwODIxOSw3MDgyODY4NTgs
