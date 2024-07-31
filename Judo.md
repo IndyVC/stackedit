@@ -15,7 +15,7 @@
 	- kinderstoel zelf te voorzien
 	- vraag vrijwilligers laten staan
 - Formulier enquete uittreding judo, communiceren naar trainers zodat ze zelf kunnen opvolgen
-- drukwerk steakfestijn @
+- drukwerk steakfestijn, 
 - drukwerk folders, Helena maakt het drukwerk
 ## Backlog
 - Open training/vriendjesdag communicatie
@@ -23,10 +23,10 @@
 	- vriendjesdag laat joachim mij asap iets laten weten
 	- nu nog niks!!! wachten op joachim
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjIzNDc5OTUsLTE3NDY5NjcxMTgsLT
-E0NTA0NzEzODUsMTY2NjI4MjYwNiwtNzUwMjUyNjkyLDIxNjQ1
-ODI0NSwyMTUwNzY0MzMsLTM0Njc3Mzg5OCwxNjk4Nzc2MDk3LD
-E2OTg3NzYwOTcsMTg1MDc1MDA4MywxNDU4Mzk4ODQ0LC0zNTU0
-MTUzMjYsNDMxNDc5NzgsLTIxMTcwMDgyMTksNzA4Mjg2ODU4LD
-E1NjQ1MDM0MzFdfQ==
+eyJoaXN0b3J5IjpbOTk1MTc2NTI5LC0xNzQ2OTY3MTE4LC0xND
+UwNDcxMzg1LDE2NjYyODI2MDYsLTc1MDI1MjY5MiwyMTY0NTgy
+NDUsMjE1MDc2NDMzLC0zNDY3NzM4OTgsMTY5ODc3NjA5NywxNj
+k4Nzc2MDk3LDE4NTA3NTAwODMsMTQ1ODM5ODg0NCwtMzU1NDE1
+MzI2LDQzMTQ3OTc4LC0yMTE3MDA4MjE5LDcwODI4Njg1OCwxNT
+Y0NTAzNDMxXX0=
 -->
