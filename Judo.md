@@ -13,6 +13,7 @@
 	- ten laatste inschrijving
 	-  29 september zondag deadline
 	- onder 3 jaar gratis, tot en met 12 kindertarief
+	- kinderstoel zelf te voorzien
 	
 ## Backlog
 - Open training/vriendjesdag communicatie
@@ -20,7 +21,7 @@
 	- vriendjesdag laat joachim mij asap iets laten weten
 	- nu nog niks!!! wachten op joachim
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NjEzMzgyNywtNzUwMjUyNjkyLDIxNj
+eyJoaXN0b3J5IjpbMTY2NjI4MjYwNiwtNzUwMjUyNjkyLDIxNj
 Q1ODI0NSwyMTUwNzY0MzMsLTM0Njc3Mzg5OCwxNjk4Nzc2MDk3
 LDE2OTg3NzYwOTcsMTg1MDc1MDA4MywxNDU4Mzk4ODQ0LC0zNT
 U0MTUzMjYsNDMxNDc5NzgsLTIxMTcwMDgyMTksNzA4Mjg2ODU4
