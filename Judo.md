@@ -6,7 +6,7 @@
 - Formulier enquete uittreding judo, communiceren naar trainers zodat ze zelf kunnen opvolgen
 - Steakfestijn
 	- Steak & kip: volwassen: 22 euro / kinderen 15 euro
-	- Veggie: volwassen: 22euro / kinde
+	- Veggie: volwassen: 22euro / kinderen 15 euro
 	
 ## Backlog
 - Open training/vriendjesdag communicatie
@@ -14,8 +14,8 @@
 	- vriendjesdag laat joachim mij asap iets laten weten
 	- nu nog niks!!! wachten op joachim
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3Nzk3MTc1NywyMTUwNzY0MzMsLTM0Nj
-c3Mzg5OCwxNjk4Nzc2MDk3LDE2OTg3NzYwOTcsMTg1MDc1MDA4
-MywxNDU4Mzk4ODQ0LC0zNTU0MTUzMjYsNDMxNDc5NzgsLTIxMT
-cwMDgyMTksNzA4Mjg2ODU4LDE1NjQ1MDM0MzFdfQ==
+eyJoaXN0b3J5IjpbMjE2NDU4MjQ1LDIxNTA3NjQzMywtMzQ2Nz
+czODk4LDE2OTg3NzYwOTcsMTY5ODc3NjA5NywxODUwNzUwMDgz
+LDE0NTgzOTg4NDQsLTM1NTQxNTMyNiw0MzE0Nzk3OCwtMjExNz
+AwODIxOSw3MDgyODY4NTgsMTU2NDUwMzQzMV19
 -->
