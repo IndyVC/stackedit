@@ -8,8 +8,8 @@
 	- Steak & kip: volwassen: 22 euro / kinderen 15 euro
 	- Veggie: volwassen: 22euro / kinderen 15 euro
 	- Mededeling: vragen aan karsten
-	- 5 oktober: 18:30-21
-	- 6 oktober: 12 - 14u30
+	- 5 oktober: 18:30-21:00
+	- 6 oktober: 12:00 - 14:30
 	- ten laatste inschrijving
 	-  29 september zondag deadline
 	- onder 3 jaar gratis, tot en met 12 kindertarief
@@ -20,9 +20,9 @@
 	- vriendjesdag laat joachim mij asap iets laten weten
 	- nu nog niks!!! wachten op joachim
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2NjU1MDI4LC03NTAyNTI2OTIsMjE2ND
-U4MjQ1LDIxNTA3NjQzMywtMzQ2NzczODk4LDE2OTg3NzYwOTcs
-MTY5ODc3NjA5NywxODUwNzUwMDgzLDE0NTgzOTg4NDQsLTM1NT
-QxNTMyNiw0MzE0Nzk3OCwtMjExNzAwODIxOSw3MDgyODY4NTgs
-MTU2NDUwMzQzMV19
+eyJoaXN0b3J5IjpbLTM2NjEzMzgyNywtNzUwMjUyNjkyLDIxNj
+Q1ODI0NSwyMTUwNzY0MzMsLTM0Njc3Mzg5OCwxNjk4Nzc2MDk3
+LDE2OTg3NzYwOTcsMTg1MDc1MDA4MywxNDU4Mzk4ODQ0LC0zNT
+U0MTUzMjYsNDMxNDc5NzgsLTIxMTcwMDgyMTksNzA4Mjg2ODU4
+LDE1NjQ1MDM0MzFdfQ==
 -->
