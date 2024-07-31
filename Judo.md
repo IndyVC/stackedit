@@ -17,14 +17,14 @@
 - Formulier enquete uittreding judo, communiceren naar trainers zodat ze zelf kunnen opvolgen
 - drukwerk folders, Helena maakt het drukwerk @ printocean rotterdam
 - drukwerk steakfestijn @ karsten maakt het drukwerk 
-- 
+
 ## Backlog
 - Open training/vriendjesdag communicatie
 	- open training stellen we uit
 	- vriendjesdag laat joachim mij asap iets laten weten
 	- nu nog niks!!! wachten op joachim
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MzM0MzY4MSwyMDcyMjgwOTI0LC0xNz
+eyJoaXN0b3J5IjpbMTkyOTQ1MDYwNiwyMDcyMjgwOTI0LC0xNz
 Q2OTY3MTE4LC0xNDUwNDcxMzg1LDE2NjYyODI2MDYsLTc1MDI1
 MjY5MiwyMTY0NTgyNDUsMjE1MDc2NDMzLC0zNDY3NzM4OTgsMT
 Y5ODc3NjA5NywxNjk4Nzc2MDk3LDE4NTA3NTAwODMsMTQ1ODM5
