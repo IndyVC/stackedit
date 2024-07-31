@@ -7,7 +7,8 @@
 - Steakfestijn
 	- Steak & kip: volwassen: 22 euro / kinderen 15 euro
 	- Veggie: volwassen: 22euro / kinderen 15 euro
-	- 
+	- Mededeling: vragen aan karsten
+	- Uren 5 & 6 oktober: vragen aan @
 	
 ## Backlog
 - Open training/vriendjesdag communicatie
@@ -15,9 +16,9 @@
 	- vriendjesdag laat joachim mij asap iets laten weten
 	- nu nog niks!!! wachten op joachim
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQwODIxMTAsMjE2NDU4MjQ1LDIxNT
-A3NjQzMywtMzQ2NzczODk4LDE2OTg3NzYwOTcsMTY5ODc3NjA5
-NywxODUwNzUwMDgzLDE0NTgzOTg4NDQsLTM1NTQxNTMyNiw0Mz
-E0Nzk3OCwtMjExNzAwODIxOSw3MDgyODY4NTgsMTU2NDUwMzQz
-MV19
+eyJoaXN0b3J5IjpbNDIzNzU2NDUwLDIxNjQ1ODI0NSwyMTUwNz
+Y0MzMsLTM0Njc3Mzg5OCwxNjk4Nzc2MDk3LDE2OTg3NzYwOTcs
+MTg1MDc1MDA4MywxNDU4Mzk4ODQ0LC0zNTU0MTUzMjYsNDMxND
+c5NzgsLTIxMTcwMDgyMTksNzA4Mjg2ODU4LDE1NjQ1MDM0MzFd
+fQ==
 -->
