@@ -15,6 +15,7 @@
 	- kinderstoel zelf te voorzien
 	- vraag vrijwilligers laten staan
 - Formulier enquete uittreding judo, communiceren naar trainers zodat ze zelf kunnen opvolgen
+- placemats 
 	
 ## Backlog
 - Open training/vriendjesdag communicatie
@@ -22,10 +23,10 @@
 	- vriendjesdag laat joachim mij asap iets laten weten
 	- nu nog niks!!! wachten op joachim
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDY5NjcxMTgsLTE0NTA0NzEzODUsMT
-Y2NjI4MjYwNiwtNzUwMjUyNjkyLDIxNjQ1ODI0NSwyMTUwNzY0
-MzMsLTM0Njc3Mzg5OCwxNjk4Nzc2MDk3LDE2OTg3NzYwOTcsMT
-g1MDc1MDA4MywxNDU4Mzk4ODQ0LC0zNTU0MTUzMjYsNDMxNDc5
-NzgsLTIxMTcwMDgyMTksNzA4Mjg2ODU4LDE1NjQ1MDM0MzFdfQ
-==
+eyJoaXN0b3J5IjpbLTE2NzA5OTI4NjcsLTE3NDY5NjcxMTgsLT
+E0NTA0NzEzODUsMTY2NjI4MjYwNiwtNzUwMjUyNjkyLDIxNjQ1
+ODI0NSwyMTUwNzY0MzMsLTM0Njc3Mzg5OCwxNjk4Nzc2MDk3LD
+E2OTg3NzYwOTcsMTg1MDc1MDA4MywxNDU4Mzk4ODQ0LC0zNTU0
+MTUzMjYsNDMxNDc5NzgsLTIxMTcwMDgyMTksNzA4Mjg2ODU4LD
+E1NjQ1MDM0MzFdfQ==
 -->
