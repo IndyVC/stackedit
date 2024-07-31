@@ -13,7 +13,7 @@
 	-  29 september zondag deadline
 	- onder 3 jaar gratis, tot en met 12 kindertarief
 	- kinderstoel zelf te voorzien
-	- vraag 
+	- vraag vrijwilligers
 - Formulier enquete uittreding judo, communiceren naar trainers zodat ze zelf kunnen opvolgen
 	
 ## Backlog
@@ -22,9 +22,9 @@
 	- vriendjesdag laat joachim mij asap iets laten weten
 	- nu nog niks!!! wachten op joachim
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NTg5MjY4MCwxNjY2MjgyNjA2LC03NT
-AyNTI2OTIsMjE2NDU4MjQ1LDIxNTA3NjQzMywtMzQ2NzczODk4
-LDE2OTg3NzYwOTcsMTY5ODc3NjA5NywxODUwNzUwMDgzLDE0NT
-gzOTg4NDQsLTM1NTQxNTMyNiw0MzE0Nzk3OCwtMjExNzAwODIx
-OSw3MDgyODY4NTgsMTU2NDUwMzQzMV19
+eyJoaXN0b3J5IjpbLTE0NTA0NzEzODUsMTY2NjI4MjYwNiwtNz
+UwMjUyNjkyLDIxNjQ1ODI0NSwyMTUwNzY0MzMsLTM0Njc3Mzg5
+OCwxNjk4Nzc2MDk3LDE2OTg3NzYwOTcsMTg1MDc1MDA4MywxND
+U4Mzk4ODQ0LC0zNTU0MTUzMjYsNDMxNDc5NzgsLTIxMTcwMDgy
+MTksNzA4Mjg2ODU4LDE1NjQ1MDM0MzFdfQ==
 -->
