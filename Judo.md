@@ -1,6 +1,6 @@
 # TODO
 ## Urgent
-- Initiatie aantal dagen op website aanpassen
+- Initiatie aantal dagen op website aanpassen (zie whatsapp helena folder)
 - Communicatie eindeseizoensvergadering
 	- Wachten op alle deelnemers, na vergadering uitsturen
 - Communicatie Ono gasttraining eind augustus (inschrijving is vol, maar blijft mooie publiciteit)
@@ -25,10 +25,10 @@
 	- vriendjesdag laat joachim mij asap iets laten weten
 	- nu nog niks!!! wachten op joachim
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcxNTI0Mjc3LDE5Mjk0NTA2MDYsMjA3Mj
-I4MDkyNCwtMTc0Njk2NzExOCwtMTQ1MDQ3MTM4NSwxNjY2Mjgy
-NjA2LC03NTAyNTI2OTIsMjE2NDU4MjQ1LDIxNTA3NjQzMywtMz
-Q2NzczODk4LDE2OTg3NzYwOTcsMTY5ODc3NjA5NywxODUwNzUw
-MDgzLDE0NTgzOTg4NDQsLTM1NTQxNTMyNiw0MzE0Nzk3OCwtMj
-ExNzAwODIxOSw3MDgyODY4NTgsMTU2NDUwMzQzMV19
+eyJoaXN0b3J5IjpbMTU0MzQyODY1MSwxOTI5NDUwNjA2LDIwNz
+IyODA5MjQsLTE3NDY5NjcxMTgsLTE0NTA0NzEzODUsMTY2NjI4
+MjYwNiwtNzUwMjUyNjkyLDIxNjQ1ODI0NSwyMTUwNzY0MzMsLT
+M0Njc3Mzg5OCwxNjk4Nzc2MDk3LDE2OTg3NzYwOTcsMTg1MDc1
+MDA4MywxNDU4Mzk4ODQ0LC0zNTU0MTUzMjYsNDMxNDc5NzgsLT
+IxMTcwMDgyMTksNzA4Mjg2ODU4LDE1NjQ1MDM0MzFdfQ==
 -->
