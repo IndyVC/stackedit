@@ -16,7 +16,6 @@
 	- onder 3 jaar gratis, tot en met 12 kindertarief
 	- kinderstoel zelf te voorzien
 	- vraag vrijwilligers laten staan
-- Groepsverantwoordelijke trainer van de groep: doorsturen enquete naar iemand die niet meer komt.  Indy maakt voorzet google form.
 - drukwerk folders, Helena maakt het drukwerk @ printocean rotterdam
 - drukwerk steakfestijn @ karsten maakt het drukwerk 
 
@@ -26,11 +25,11 @@
 	- vriendjesdag laat joachim mij asap iets laten weten
 	- nu nog niks!!! wachten op joachim
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MDI4NjYwOSwxNDk4ODQ1MzczLDE5Mj
-k0NTA2MDYsMTU0MzQyODY1MSwxOTI5NDUwNjA2LDIwNzIyODA5
-MjQsLTE3NDY5NjcxMTgsLTE0NTA0NzEzODUsMTY2NjI4MjYwNi
-wtNzUwMjUyNjkyLDIxNjQ1ODI0NSwyMTUwNzY0MzMsLTM0Njc3
-Mzg5OCwxNjk4Nzc2MDk3LDE2OTg3NzYwOTcsMTg1MDc1MDA4My
-wxNDU4Mzk4ODQ0LC0zNTU0MTUzMjYsNDMxNDc5NzgsLTIxMTcw
-MDgyMTldfQ==
+eyJoaXN0b3J5IjpbLTMyNjQwNzQ1MywyMDUwMjg2NjA5LDE0OT
+g4NDUzNzMsMTkyOTQ1MDYwNiwxNTQzNDI4NjUxLDE5Mjk0NTA2
+MDYsMjA3MjI4MDkyNCwtMTc0Njk2NzExOCwtMTQ1MDQ3MTM4NS
+wxNjY2MjgyNjA2LC03NTAyNTI2OTIsMjE2NDU4MjQ1LDIxNTA3
+NjQzMywtMzQ2NzczODk4LDE2OTg3NzYwOTcsMTY5ODc3NjA5Ny
+wxODUwNzUwMDgzLDE0NTgzOTg4NDQsLTM1NTQxNTMyNiw0MzE0
+Nzk3OF19
 -->
