@@ -1,6 +1,6 @@
 # TODO
 ## Urgent
-- SMS versturen laatste week augustus wijziging : training donderdag 29/8 en op vrijdag 30/8 leggen matten
+
 - Twizzit
 - Communicatie eindeseizoensvergadering
 	- Wachten op alle deelnemers, na vergadering uitsturen
@@ -20,16 +20,17 @@
 - drukwerk steakfestijn @ karsten maakt het drukwerk 
 
 ## Backlog
+- SMS versturen laatste week augustus wijziging : training donderdag 29/8 en op vrijdag 30/8 leggen matten
 - Open training/vriendjesdag communicatie
 	- open training stellen we uit
 	- vriendjesdag laat joachim mij asap iets laten weten
 	- nu nog niks!!! wachten op joachim
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNjQwNzQ1MywyMDUwMjg2NjA5LDE0OT
-g4NDUzNzMsMTkyOTQ1MDYwNiwxNTQzNDI4NjUxLDE5Mjk0NTA2
-MDYsMjA3MjI4MDkyNCwtMTc0Njk2NzExOCwtMTQ1MDQ3MTM4NS
-wxNjY2MjgyNjA2LC03NTAyNTI2OTIsMjE2NDU4MjQ1LDIxNTA3
-NjQzMywtMzQ2NzczODk4LDE2OTg3NzYwOTcsMTY5ODc3NjA5Ny
-wxODUwNzUwMDgzLDE0NTgzOTg4NDQsLTM1NTQxNTMyNiw0MzE0
-Nzk3OF19
+eyJoaXN0b3J5IjpbLTkzNTg3MTE3OSwtMzI2NDA3NDUzLDIwNT
+AyODY2MDksMTQ5ODg0NTM3MywxOTI5NDUwNjA2LDE1NDM0Mjg2
+NTEsMTkyOTQ1MDYwNiwyMDcyMjgwOTI0LC0xNzQ2OTY3MTE4LC
+0xNDUwNDcxMzg1LDE2NjYyODI2MDYsLTc1MDI1MjY5MiwyMTY0
+NTgyNDUsMjE1MDc2NDMzLC0zNDY3NzM4OTgsMTY5ODc3NjA5Ny
+wxNjk4Nzc2MDk3LDE4NTA3NTAwODMsMTQ1ODM5ODg0NCwtMzU1
+NDE1MzI2XX0=
 -->
