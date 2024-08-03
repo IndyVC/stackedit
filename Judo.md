@@ -17,7 +17,6 @@
 	- kinderstoel zelf te voorzien
 	- vraag vrijwilligers laten staan
 - drukwerk folders, Helena maakt het drukwerk @ printocean rotterdam
-- drukwerk steakfestijn @ karsten maakt het drukwerk 
 
 ## Backlog
 - SMS versturen laatste week augustus wijziging : training donderdag 29/8 en op vrijdag 30/8 leggen matten
@@ -26,8 +25,10 @@
 	- vriendjesdag laat joachim mij asap iets laten weten
 	- nu nog niks!!! wachten op joachim
 - Communicatie Ono gasttraining eind augustus (inschrijving is vol, maar blijft mooie publiciteit)
+- drukwerk steakfestijn @ karsten maakt het drukwerk 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzM4NDI3ODUsLTMyNjQwNzQ1MywyMD
+eyJoaXN0b3J5IjpbLTE2NDQwMjc1MjcsLTMyNjQwNzQ1MywyMD
 UwMjg2NjA5LDE0OTg4NDUzNzMsMTkyOTQ1MDYwNiwxNTQzNDI4
 NjUxLDE5Mjk0NTA2MDYsMjA3MjI4MDkyNCwtMTc0Njk2NzExOC
 wtMTQ1MDQ3MTM4NSwxNjY2MjgyNjA2LC03NTAyNTI2OTIsMjE2
