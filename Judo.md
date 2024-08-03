@@ -17,7 +17,7 @@
 	- onder 3 jaar gratis, tot en met 12 kindertarief
 	- kinderstoel zelf te voorzien
 	- vraag vrijwilligers laten staan
-- Formulier enquete uittreding judo, communiceren naar trainers zodat ze zelf kunnen opvolgen
+- Groepsverantwoordelijke trainer van de groep: doorsturen enquete naar iemand die niet meer komt.  Indy maakt voorzet google form.
 - drukwerk folders, Helena maakt het drukwerk @ printocean rotterdam
 - drukwerk steakfestijn @ karsten maakt het drukwerk 
 
@@ -27,11 +27,11 @@
 	- vriendjesdag laat joachim mij asap iets laten weten
 	- nu nog niks!!! wachten op joachim
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQyNzY1NTQ3LDE5Mjk0NTA2MDYsMTU0Mz
-QyODY1MSwxOTI5NDUwNjA2LDIwNzIyODA5MjQsLTE3NDY5Njcx
-MTgsLTE0NTA0NzEzODUsMTY2NjI4MjYwNiwtNzUwMjUyNjkyLD
-IxNjQ1ODI0NSwyMTUwNzY0MzMsLTM0Njc3Mzg5OCwxNjk4Nzc2
-MDk3LDE2OTg3NzYwOTcsMTg1MDc1MDA4MywxNDU4Mzk4ODQ0LC
-0zNTU0MTUzMjYsNDMxNDc5NzgsLTIxMTcwMDgyMTksNzA4Mjg2
-ODU4XX0=
+eyJoaXN0b3J5IjpbMTQ5ODg0NTM3MywxOTI5NDUwNjA2LDE1ND
+M0Mjg2NTEsMTkyOTQ1MDYwNiwyMDcyMjgwOTI0LC0xNzQ2OTY3
+MTE4LC0xNDUwNDcxMzg1LDE2NjYyODI2MDYsLTc1MDI1MjY5Mi
+wyMTY0NTgyNDUsMjE1MDc2NDMzLC0zNDY3NzM4OTgsMTY5ODc3
+NjA5NywxNjk4Nzc2MDk3LDE4NTA3NTAwODMsMTQ1ODM5ODg0NC
+wtMzU1NDE1MzI2LDQzMTQ3OTc4LC0yMTE3MDA4MjE5LDcwODI4
+Njg1OF19
 -->
