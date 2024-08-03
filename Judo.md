@@ -1,5 +1,6 @@
 # TODO
 ## Urgent
+- 
 - Communicatie eindeseizoensvergadering
 	- Wachten op alle deelnemers, na vergadering uitsturen
 - Communicatie Ono gasttraining eind augustus (inschrijving is vol, maar blijft mooie publiciteit)
@@ -24,11 +25,11 @@
 	- vriendjesdag laat joachim mij asap iets laten weten
 	- nu nog niks!!! wachten op joachim
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyOTQ1MDYwNiwxNTQzNDI4NjUxLDE5Mj
-k0NTA2MDYsMjA3MjI4MDkyNCwtMTc0Njk2NzExOCwtMTQ1MDQ3
-MTM4NSwxNjY2MjgyNjA2LC03NTAyNTI2OTIsMjE2NDU4MjQ1LD
-IxNTA3NjQzMywtMzQ2NzczODk4LDE2OTg3NzYwOTcsMTY5ODc3
-NjA5NywxODUwNzUwMDgzLDE0NTgzOTg4NDQsLTM1NTQxNTMyNi
-w0MzE0Nzk3OCwtMjExNzAwODIxOSw3MDgyODY4NTgsMTU2NDUw
-MzQzMV19
+eyJoaXN0b3J5IjpbMTQ4MTc0MzYzNSwxOTI5NDUwNjA2LDE1ND
+M0Mjg2NTEsMTkyOTQ1MDYwNiwyMDcyMjgwOTI0LC0xNzQ2OTY3
+MTE4LC0xNDUwNDcxMzg1LDE2NjYyODI2MDYsLTc1MDI1MjY5Mi
+wyMTY0NTgyNDUsMjE1MDc2NDMzLC0zNDY3NzM4OTgsMTY5ODc3
+NjA5NywxNjk4Nzc2MDk3LDE4NTA3NTAwODMsMTQ1ODM5ODg0NC
+wtMzU1NDE1MzI2LDQzMTQ3OTc4LC0yMTE3MDA4MjE5LDcwODI4
+Njg1OF19
 -->
