@@ -1,5 +1,7 @@
 # TODO
 ## Urgent
+- Trainingsvergadering is gecommuniceerd.  Uren woensdagtraining wijzigen. Training woensdag voor U9 start om 18.00 tot 19.00 uur.  U11: van 19.00 tot 20:00 uur. Matisse neemt over.  Moet aangepast worden op website.
+- SMS versturen laatste week augustus wijziging : training donderdag 29/8 en op vrijdag 30/8 leggen matten
 - Twizzit
 - Communicatie eindeseizoensvergadering
 	- Wachten op alle deelnemers, na vergadering uitsturen
@@ -25,7 +27,7 @@
 	- vriendjesdag laat joachim mij asap iets laten weten
 	- nu nog niks!!! wachten op joachim
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQxNTQzMTM0LDE5Mjk0NTA2MDYsMTU0Mz
+eyJoaXN0b3J5IjpbNjQyNzY1NTQ3LDE5Mjk0NTA2MDYsMTU0Mz
 QyODY1MSwxOTI5NDUwNjA2LDIwNzIyODA5MjQsLTE3NDY5Njcx
 MTgsLTE0NTA0NzEzODUsMTY2NjI4MjYwNiwtNzUwMjUyNjkyLD
 IxNjQ1ODI0NSwyMTUwNzY0MzMsLTM0Njc3Mzg5OCwxNjk4Nzc2
