@@ -4,7 +4,7 @@
 - Twizzit
 - Communicatie eindeseizoensvergadering
 	- Wachten op alle deelnemers, na vergadering uitsturen
-- Communicatie Ono gasttraining eind augustus (inschrijving is vol, maar blijft mooie publiciteit)
+
 - Steakfestijn
 	- Steak & kip: volwassen: 22 euro / kinderen 15 euro
 	- Veggie: volwassen: 22euro / kinderen 15 euro
@@ -25,12 +25,13 @@
 	- open training stellen we uit
 	- vriendjesdag laat joachim mij asap iets laten weten
 	- nu nog niks!!! wachten op joachim
+- Communicatie Ono gasttraining eind augustus (inschrijving is vol, maar blijft mooie publiciteit)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNTg3MTE3OSwtMzI2NDA3NDUzLDIwNT
-AyODY2MDksMTQ5ODg0NTM3MywxOTI5NDUwNjA2LDE1NDM0Mjg2
-NTEsMTkyOTQ1MDYwNiwyMDcyMjgwOTI0LC0xNzQ2OTY3MTE4LC
-0xNDUwNDcxMzg1LDE2NjYyODI2MDYsLTc1MDI1MjY5MiwyMTY0
-NTgyNDUsMjE1MDc2NDMzLC0zNDY3NzM4OTgsMTY5ODc3NjA5Ny
-wxNjk4Nzc2MDk3LDE4NTA3NTAwODMsMTQ1ODM5ODg0NCwtMzU1
-NDE1MzI2XX0=
+eyJoaXN0b3J5IjpbLTE0MzM4NDI3ODUsLTMyNjQwNzQ1MywyMD
+UwMjg2NjA5LDE0OTg4NDUzNzMsMTkyOTQ1MDYwNiwxNTQzNDI4
+NjUxLDE5Mjk0NTA2MDYsMjA3MjI4MDkyNCwtMTc0Njk2NzExOC
+wtMTQ1MDQ3MTM4NSwxNjY2MjgyNjA2LC03NTAyNTI2OTIsMjE2
+NDU4MjQ1LDIxNTA3NjQzMywtMzQ2NzczODk4LDE2OTg3NzYwOT
+csMTY5ODc3NjA5NywxODUwNzUwMDgzLDE0NTgzOTg4NDQsLTM1
+NTQxNTMyNl19
 -->
