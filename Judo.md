@@ -4,7 +4,6 @@
 - Twizzit
 - Communicatie eindeseizoensvergadering
 	- Wachten op alle deelnemers, na vergadering uitsturen
-
 - Steakfestijn
 	- vrijkaarten
 	- spatie
@@ -21,11 +20,11 @@
 - drukwerk steakfestijn @ karsten maakt het drukwerk 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMxNDY3MjUwLC0xNjQ0MDI3NTI3LC0zMj
-Y0MDc0NTMsMjA1MDI4NjYwOSwxNDk4ODQ1MzczLDE5Mjk0NTA2
-MDYsMTU0MzQyODY1MSwxOTI5NDUwNjA2LDIwNzIyODA5MjQsLT
-E3NDY5NjcxMTgsLTE0NTA0NzEzODUsMTY2NjI4MjYwNiwtNzUw
-MjUyNjkyLDIxNjQ1ODI0NSwyMTUwNzY0MzMsLTM0Njc3Mzg5OC
-wxNjk4Nzc2MDk3LDE2OTg3NzYwOTcsMTg1MDc1MDA4MywxNDU4
-Mzk4ODQ0XX0=
+eyJoaXN0b3J5IjpbMTU2NjE0Mjc4OCwyMzE0NjcyNTAsLTE2ND
+QwMjc1MjcsLTMyNjQwNzQ1MywyMDUwMjg2NjA5LDE0OTg4NDUz
+NzMsMTkyOTQ1MDYwNiwxNTQzNDI4NjUxLDE5Mjk0NTA2MDYsMj
+A3MjI4MDkyNCwtMTc0Njk2NzExOCwtMTQ1MDQ3MTM4NSwxNjY2
+MjgyNjA2LC03NTAyNTI2OTIsMjE2NDU4MjQ1LDIxNTA3NjQzMy
+wtMzQ2NzczODk4LDE2OTg3NzYwOTcsMTY5ODc3NjA5NywxODUw
+NzUwMDgzXX0=
 -->
