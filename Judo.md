@@ -6,16 +6,9 @@
 	- Wachten op alle deelnemers, na vergadering uitsturen
 
 - Steakfestijn
-	- Steak & kip: volwassen: 22 euro / kinderen 15 euro
-	- Veggie: volwassen: 22euro / kinderen 15 euro
-	- Mededeling: vragen aan karsten
-	- 5 oktober: 18:30-21:00
-	- 6 oktober: 12:00 - 14:30
-	- ten laatste inschrijving
-	-  29 september zondag deadline
-	- onder 3 jaar gratis, tot en met 12 kindertarief
-	- kinderstoel zelf te voorzien
-	- vraag vrijwilligers laten staan
+	- vrijkaarten
+	- spatie
+- tekst initiatie (zie mail tino)
 - drukwerk folders, Helena maakt het drukwerk @ printocean rotterdam
 
 ## Backlog
@@ -28,11 +21,11 @@
 - drukwerk steakfestijn @ karsten maakt het drukwerk 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDQwMjc1MjcsLTMyNjQwNzQ1MywyMD
-UwMjg2NjA5LDE0OTg4NDUzNzMsMTkyOTQ1MDYwNiwxNTQzNDI4
-NjUxLDE5Mjk0NTA2MDYsMjA3MjI4MDkyNCwtMTc0Njk2NzExOC
-wtMTQ1MDQ3MTM4NSwxNjY2MjgyNjA2LC03NTAyNTI2OTIsMjE2
-NDU4MjQ1LDIxNTA3NjQzMywtMzQ2NzczODk4LDE2OTg3NzYwOT
-csMTY5ODc3NjA5NywxODUwNzUwMDgzLDE0NTgzOTg4NDQsLTM1
-NTQxNTMyNl19
+eyJoaXN0b3J5IjpbMjMxNDY3MjUwLC0xNjQ0MDI3NTI3LC0zMj
+Y0MDc0NTMsMjA1MDI4NjYwOSwxNDk4ODQ1MzczLDE5Mjk0NTA2
+MDYsMTU0MzQyODY1MSwxOTI5NDUwNjA2LDIwNzIyODA5MjQsLT
+E3NDY5NjcxMTgsLTE0NTA0NzEzODUsMTY2NjI4MjYwNiwtNzUw
+MjUyNjkyLDIxNjQ1ODI0NSwyMTUwNzY0MzMsLTM0Njc3Mzg5OC
+wxNjk4Nzc2MDk3LDE2OTg3NzYwOTcsMTg1MDc1MDA4MywxNDU4
+Mzk4ODQ0XX0=
 -->
