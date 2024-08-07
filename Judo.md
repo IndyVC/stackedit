@@ -1,6 +1,7 @@
 # TODO
 ## Urgent
 
+- alle vorige betalingen doorsturen naar karsten
 - Twizzit
 - Communicatie eindeseizoensvergadering
 	- Wachten op alle deelnemers, na vergadering uitsturen
@@ -17,11 +18,11 @@
 - drukwerk steakfestijn @ karsten maakt het drukwerk 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk3OTMyOTUsMTU2NjE0Mjc4OCwyMzE0Nj
-cyNTAsLTE2NDQwMjc1MjcsLTMyNjQwNzQ1MywyMDUwMjg2NjA5
-LDE0OTg4NDUzNzMsMTkyOTQ1MDYwNiwxNTQzNDI4NjUxLDE5Mj
-k0NTA2MDYsMjA3MjI4MDkyNCwtMTc0Njk2NzExOCwtMTQ1MDQ3
-MTM4NSwxNjY2MjgyNjA2LC03NTAyNTI2OTIsMjE2NDU4MjQ1LD
-IxNTA3NjQzMywtMzQ2NzczODk4LDE2OTg3NzYwOTcsMTY5ODc3
-NjA5N119
+eyJoaXN0b3J5IjpbLTE0NDQwOTQzODYsMTU2NjE0Mjc4OCwyMz
+E0NjcyNTAsLTE2NDQwMjc1MjcsLTMyNjQwNzQ1MywyMDUwMjg2
+NjA5LDE0OTg4NDUzNzMsMTkyOTQ1MDYwNiwxNTQzNDI4NjUxLD
+E5Mjk0NTA2MDYsMjA3MjI4MDkyNCwtMTc0Njk2NzExOCwtMTQ1
+MDQ3MTM4NSwxNjY2MjgyNjA2LC03NTAyNTI2OTIsMjE2NDU4Mj
+Q1LDIxNTA3NjQzMywtMzQ2NzczODk4LDE2OTg3NzYwOTcsMTY5
+ODc3NjA5N119
 -->
