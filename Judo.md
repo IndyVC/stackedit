@@ -4,9 +4,6 @@
 - Twizzit
 - Communicatie eindeseizoensvergadering
 	- Wachten op alle deelnemers, na vergadering uitsturen
-- Steakfestijn
-	- vrijkaarten
-	- spatie
 - tekst initiatie (zie mail tino)
 - drukwerk folders, Helena maakt het drukwerk @ printocean rotterdam
 
@@ -20,11 +17,11 @@
 - drukwerk steakfestijn @ karsten maakt het drukwerk 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NjE0Mjc4OCwyMzE0NjcyNTAsLTE2ND
-QwMjc1MjcsLTMyNjQwNzQ1MywyMDUwMjg2NjA5LDE0OTg4NDUz
-NzMsMTkyOTQ1MDYwNiwxNTQzNDI4NjUxLDE5Mjk0NTA2MDYsMj
-A3MjI4MDkyNCwtMTc0Njk2NzExOCwtMTQ1MDQ3MTM4NSwxNjY2
-MjgyNjA2LC03NTAyNTI2OTIsMjE2NDU4MjQ1LDIxNTA3NjQzMy
-wtMzQ2NzczODk4LDE2OTg3NzYwOTcsMTY5ODc3NjA5NywxODUw
-NzUwMDgzXX0=
+eyJoaXN0b3J5IjpbNjk3OTMyOTUsMTU2NjE0Mjc4OCwyMzE0Nj
+cyNTAsLTE2NDQwMjc1MjcsLTMyNjQwNzQ1MywyMDUwMjg2NjA5
+LDE0OTg4NDUzNzMsMTkyOTQ1MDYwNiwxNTQzNDI4NjUxLDE5Mj
+k0NTA2MDYsMjA3MjI4MDkyNCwtMTc0Njk2NzExOCwtMTQ1MDQ3
+MTM4NSwxNjY2MjgyNjA2LC03NTAyNTI2OTIsMjE2NDU4MjQ1LD
+IxNTA3NjQzMywtMzQ2NzczODk4LDE2OTg3NzYwOTcsMTY5ODc3
+NjA5N119
 -->
